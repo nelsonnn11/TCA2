@@ -1,0 +1,40 @@
+body {
+  background-color: #0e131f;
+  font-family: open-sans;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  text-align: start;
+}
+
+p2 {
+  color: white;
+}
+
+h3 {
+  color: white;
+  text-align: start;
+}
+
+p3 {
+  color: white;
+}
+
+h4 {
+  color: white;
+  text-align: start;
+}
+
+p4 {
+  color: white;
+}
+
+.img {
+  align-items: center;
+}
